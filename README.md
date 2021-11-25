@@ -1,7 +1,7 @@
 # SWII_TP_04
  
 ## Autores: Giovanni Fernandes CB1640488 e João Victor Rodrigues CB1640356
-Trabalho SWII2 TP-04
+Trabalho SWII6 TP-04
 
 ### Objetivo
 Desenvolver uma aplicação com API, Web Site e aplicação Desktop
