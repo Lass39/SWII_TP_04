@@ -7,10 +7,10 @@ Trabalho SWII6 TP-04
 Desenvolver uma aplicação com API, Web Site e aplicação Desktop
 
 ### Contém
-- [x] Banco que dados capaz de armazenar informações de Usuário / Produto
-- [x] API contem todos os métodos CRUD para o Usuário e Produto
+- [x] Banco que dados capaz de armazenar informações de Usuário / Livro
+- [x] API contem todos os métodos CRUD para o Usuário e Livro
 - [x] A gestão de usuários efetuada através de uma aplicação Desktop
-- [x] Operações de produto devem ser executadas através de WebSite
+- [x] Operações de Livro devem ser executadas através de WebSite
 
 # Pacotes utilizados
 
