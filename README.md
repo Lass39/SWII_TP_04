@@ -1,6 +1,6 @@
 # SWII_TP_04
  
-## Autores: Giovanni Fernandes 1640488 e João Victor Rodrigues CB1640356
+## Autores: Giovanni Fernandes CB1640488 e João Victor Rodrigues CB1640356
 Trabalho realizado para a disciplina de Sistemas Web 2 (ASP.NET MVC), ministrada por Wellington Tuller Moraes no Instituto Federal de São Paulo, campus Cubatão.
 
 ### Objetivo
